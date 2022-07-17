@@ -196,7 +196,7 @@ class MyHomePage extends StatelessWidget {
         width: MediaQuery.of(context).size.width,
         height: MediaQuery.of(context).size.height,
         scaleToDevicePixelRatio: true,
-        googleApiKey: "AIzaSyA22aA_wFxwb0-KTwk0JAb68U1Ieyia4L0",
+        googleApiKey: "", // please insert api key here
         visible: const [
           GeocodedLocation.address('Santa Monica Pier'),
         ],
